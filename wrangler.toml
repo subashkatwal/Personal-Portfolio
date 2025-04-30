@@ -1,0 +1,6 @@
+name = "personal-portfolio"
+type = "javascript"
+compatibility_date = "2025-04-30"
+
+[site]
+bucket = "./dist"
