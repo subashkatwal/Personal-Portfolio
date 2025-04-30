@@ -6,15 +6,13 @@
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview",
-    "preview:worker":"npm run build && wrangler dev",
-    "deploy:worker":"npm run build && wrangler dev"
+    "preview:worker": "npm run build && wrangler dev",
+    "deploy:worker": "npm run build && wrangler dev"
   },
   "dependencies": {
-    "@tailwindcss/postcss": "^4.1.4",
-    "@tailwindcss/postcss7-compat": "^2.2.17",
     "autoprefixer": "^10.4.21",
     "lucide-react": "^0.503.0",
-    "postcss": "^7.0.39",
+    "postcss": "^8.5.3",
     "react": "^19.1.0",
     "react-dom": "^19.1.0",
     "tailwindcss": "^4.1.4"
