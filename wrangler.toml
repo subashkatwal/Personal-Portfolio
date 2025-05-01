@@ -1,0 +1,12 @@
+name = "portfolio-web"
+compatibility_date = "2025-05-01"
+
+[build]
+  command = "npm run build"
+  cwd = "./"
+
+[env.production]
+  routes = ["https://www.subashkatwal07.com.np/*"]
+
+[env.preview]
+  routes = ["https://preview.subashkatwal07.com.np/*"]

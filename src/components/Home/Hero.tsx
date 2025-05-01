@@ -66,10 +66,10 @@ const Hero: React.FC = () => {
               View My Work
             </a>
             <a 
-              href="#contact" 
+              href="https://drive.google.com/file/d/1Ekzb8UZpvmoeikPh4SzSubm-zXiHn1hm/view?usp=sharing" 
               className="px-8 py-3 bg-white dark:bg-slate-800 text-slate-800 dark:text-white hover:bg-slate-100 dark:hover:bg-slate-700 font-medium rounded-lg transition-colors border border-slate-200 dark:border-slate-700 shadow-lg hover:shadow-xl"
             >
-              Contact Me
+              View My Resume 
             </a>
           </div>
         </div>
