@@ -35,7 +35,7 @@ const About: React.FC = () => {
           >
             <div className="relative aspect-square overflow-hidden rounded-2xl shadow-xl">
               <img 
-                // src="/assests/images/me.png" 
+                src="/assests/images/me.png" 
                 alt="Developer working" 
                 className="object-cover w-full h-full"
               />
